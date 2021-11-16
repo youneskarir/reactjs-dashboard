@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/reactjs-dashboard/static/js/main.474b38f7.chunk.js",
-    "main.js.map": "/reactjs-dashboard/static/js/main.474b38f7.chunk.js.map",
+    "main.js": "/reactjs-dashboard/static/js/main.b88dff1a.chunk.js",
+    "main.js.map": "/reactjs-dashboard/static/js/main.b88dff1a.chunk.js.map",
     "runtime-main.js": "/reactjs-dashboard/static/js/runtime-main.c5328c8c.js",
     "runtime-main.js.map": "/reactjs-dashboard/static/js/runtime-main.c5328c8c.js.map",
-    "static/js/2.e57ef8cd.chunk.js": "/reactjs-dashboard/static/js/2.e57ef8cd.chunk.js",
-    "static/js/2.e57ef8cd.chunk.js.map": "/reactjs-dashboard/static/js/2.e57ef8cd.chunk.js.map",
+    "static/js/2.ee7e8723.chunk.js": "/reactjs-dashboard/static/js/2.ee7e8723.chunk.js",
+    "static/js/2.ee7e8723.chunk.js.map": "/reactjs-dashboard/static/js/2.ee7e8723.chunk.js.map",
     "index.html": "/reactjs-dashboard/index.html",
-    "static/js/2.e57ef8cd.chunk.js.LICENSE.txt": "/reactjs-dashboard/static/js/2.e57ef8cd.chunk.js.LICENSE.txt"
+    "static/js/2.ee7e8723.chunk.js.LICENSE.txt": "/reactjs-dashboard/static/js/2.ee7e8723.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c5328c8c.js",
-    "static/js/2.e57ef8cd.chunk.js",
-    "static/js/main.474b38f7.chunk.js"
+    "static/js/2.ee7e8723.chunk.js",
+    "static/js/main.b88dff1a.chunk.js"
   ]
 }
